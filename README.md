@@ -30,3 +30,9 @@ on ubuntu this worked for me:
 or 
 
 `TESSDATA_PREFIX=/custom/tessdata python3 ocr.py`
+
+### References
+
+* https://github.com/guiem/train-tesseract
+
+* https://medium.com/@guiem/how-to-train-tesseract-4-ebe5881ff3b7
