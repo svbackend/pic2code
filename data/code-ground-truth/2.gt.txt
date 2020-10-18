@@ -1,0 +1,1 @@
+$this->sender = $this->createMock(EmailSender::class);

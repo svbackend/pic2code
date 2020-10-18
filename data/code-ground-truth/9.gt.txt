@@ -1,0 +1,1 @@
+if ($currentAgent->getUuid()->equals($campaignAgent->getAgent()->getUuid())) {

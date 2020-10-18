@@ -1,0 +1,1 @@
+$agent = new User(1, 'email@email.com', 'Nathan', 'Kowarsky');

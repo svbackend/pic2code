@@ -1,0 +1,1 @@
+$this->notifyAboutNewLead = (bool)$request->get('notify_about_new_lead', false);

@@ -1,0 +1,1 @@
+self::assertEquals($campaignAgent1->getEmail(), $lead1->getUser()->getEmail());
